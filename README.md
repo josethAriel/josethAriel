@@ -3,9 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-	
 <p align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/josethAriel?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josethariel&theme=radical&layout=compact"/>
   </a>
 </p>
@@ -16,7 +15,7 @@
   </a>
 </p>  
 
-<h2 align="center">👩‍💻 Skills</h2>
+<h2 align="center">🧑‍💻 Skills</h2>
 <p align="center">
 	<a href="https://git-scm.com/"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
     	<a href="https://www.docker.com"><img src="https://img.icons8.com/color/452/docker.png" alt="docker" width="40" height="40"/>
